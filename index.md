@@ -3,22 +3,14 @@
 layout: home
 
 hero:
-  name: "Project测试AAAAAAAAAA"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "随手记记记......"
+  tagline: "记点什么吧，留个痕"
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 部署个一模一样的网站
       link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 首页放什么呢
+    details: 空空荡荡的脑子啊~~~~
 ---

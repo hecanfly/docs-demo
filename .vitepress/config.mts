@@ -4,13 +4,13 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   base: "/docs-demo/",
   lang: "zh-CN",
-  title: "Project测试AAAAAAAAAA",
-  description: "A VitePress Site",
+  title: "飞飞",
+  description: "随手一记",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
+      { text: "主页", link: "/" },
+      { text: "教程", link: "/markdown-examples" },
     ],
 
     sidebar: [
@@ -23,8 +23,6 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
-    ],
+    socialLinks: [{ icon: "github", link: "https://github.com/hecanfly" }],
   },
 });
